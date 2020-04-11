@@ -6,7 +6,7 @@ This code provides a reference implementation of the AETF algorithm described in
   Moretti, A.\*, Atkinson-Stirn, A.\*, Marks, G.\*, Pe'er, I. \
   Journal of Computational Biology, 2019 26(6):546–560. PMID: 30526005
 
-  * [Auto-Encoding Topographic Factors](https://www.cs.columbia.edu/~amoretti/papers/AETF.pdf). \
+  * [Auto-Encoding Topographic Factors](http://www.cs.columbia.edu/~amoretti/papers/AETF.pdf). \
   Moretti, A.\*, Atkinson-Stirn, A.\*, Pe'er, I. \
   Joint IJCAI-ICML Workshop on Computational Biology, 2018.
   
