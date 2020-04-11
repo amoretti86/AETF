@@ -1,7 +1,5 @@
 # AETF: Autoencoding Topographic Factors
 
-Topographic factor models separate a set of overlapping singals into spatially localized source functions without knowledge of the original signals or the mixing process. We propose Auto-Encoding Topographic Factors (AETF), a novel variational inference scheme that does not require sources to be held constant across locations on the lattice. Model parameters scale independently of dataset size making it possible to perform inference on thousands of 3D images. AETF is evaluated on both simulations and functional imaging data and is shown to outperform existing Topographic factor models.
-
 This code provides a reference implementation of the algorithm AETF described in the following publications:
 
   * [Autoencoding Topographic Factors](https://www.liebertpub.com/doi/full/10.1089/cmb.2018.0176). \
