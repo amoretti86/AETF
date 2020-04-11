@@ -23,6 +23,6 @@ AETF As a reference, the TFA algorithms are implemented from the following publi
 
 | Original | Inferred |
 |:--------------------------:|:--------------------------:|
-|![fhn](https://github.com/amoretti86/PSVO/blob/master/data/fhn/fhn.png)|
+|![raw](https://github.com/amoretti86/AETF/blob/master/figs/raw.png)|
 ![](https://github.com/amoretti86/AETF/blob/master/Flow%20evolution%20across%20epochs.gif)
 
