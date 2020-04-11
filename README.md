@@ -25,7 +25,7 @@ AETF As a reference, the TFA algorithms are implemented from the following publi
 * scipy
 * matplotlib
 
-To checkout, run git@github.com:amoretti86/psvo.git
+To checkout, run 'git@github.com:amoretti86/psvo.git'
   
   
   ## Demo
