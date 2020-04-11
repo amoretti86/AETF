@@ -2,7 +2,7 @@
 
 This code provides a reference implementation of the blind source separation algorithm AETF described in the following publications:
 
-  * [Auto-Encoding Topographic Factors](https://www.liebertpub.com/doi/full/10.1089/cmb.2018.0176). \
+  * [Autoencoding Topographic Factors](https://www.liebertpub.com/doi/full/10.1089/cmb.2018.0176). \
   Moretti, A.\*, Atkinson-Stirn, A.\*, Marks, G.\*, Pe'er, I. \
   Journal of Computational Biology, 2019 26(6):546–560. PMID: 30526005
 
@@ -24,5 +24,5 @@ AETF As a reference, the TFA algorithms are implemented from the following publi
 | Original | Inferred |
 |:--------------------------:|:--------------------------:|
 |![raw](https://github.com/amoretti86/AETF/blob/master/figs/raw.png)|
-![423x300,20%](https://github.com/amoretti86/AETF/blob/master/Flow%20evolution%20across%20epochs.gif)
+!|423x300,20%](https://github.com/amoretti86/AETF/blob/master/Flow%20evolution%20across%20epochs.gif)
 
