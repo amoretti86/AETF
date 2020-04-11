@@ -10,7 +10,7 @@ This code provides a reference implementation of the AETF algorithm described in
   Moretti, A.\*, Atkinson-Stirn, A.\*, Pe'er, I. \
   Joint IJCAI-ICML Workshop on Computational Biology, 2018.
   
-AETF is an extension of the TFA algorithm. As a reference, TFA is also implemented from the following publication:
+AETF is an extension of the TFA algorithm from the following publication. As a reference, TFA is also supported in the repo.
   
   * [Topographic Factor Analysis](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0094914). \
   Manning, J., Raganath, R., Norman, K., Blei, D. \
